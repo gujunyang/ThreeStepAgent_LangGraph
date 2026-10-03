@@ -28,8 +28,10 @@ pip install -r requirements.txt
 
 ## 使用
 
+复制 `.env.example` 为 `.env` 并填入 API Key，然后运行：
+
 ```bash
-python main.py
+python agent.py
 ```
 
 ## 项目结构
